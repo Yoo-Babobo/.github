@@ -1,3 +1,3 @@
 # Yoo-Babobo
 
-Website: https://yoo-babobo.com
+A small group of developers making cool things.
